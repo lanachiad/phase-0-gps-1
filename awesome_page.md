@@ -10,4 +10,4 @@ Go to [Google](http://google.com)!
 
 ![cool arrow](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Cool Arrow")
 
-Oh no!!!
+Oh hey guys!
